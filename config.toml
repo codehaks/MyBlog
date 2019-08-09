@@ -1,0 +1,18 @@
+baseURL = "https://codehaks.github.io/"
+languageCode = "en-us"
+title = "Codehaks"
+theme="hyde"
+disqusShortname = "codehaks"
+googleAnalytics = "UA-105746611-1"
+
+[params]
+  author = "Hakim Ghods"
+  description = "Adventures of an ASP.NET Core developer"
+  AuthorName = "Hakim Ghods"
+  GitHubUser = "codehaks"
+  SidebarRecentLimit = 5
+  Subtitle = "Adventures of an ASP.NET Core developer"
+  themeColor = "theme-base-0e"
+
+[permalinks]
+  posts = "/:year/:month/:day/:title.html"
