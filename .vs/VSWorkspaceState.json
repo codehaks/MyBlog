@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\static",
-    "\\themes\\hyde",
-    "\\themes\\hyde\\layouts",
-    "\\themes\\hyde\\static",
-    "\\themes\\hyde\\static\\css"
+    "\\static"
   ],
   "PreviewInSolutionExplorer": false
 }
